@@ -1,0 +1,13 @@
+Última
+
+Con Bootstrap y usando lenguaje servidor PHP,
+Crear una TO DO LIST con
+
+Creamos un input text y un botón de enviar como hemos visto anteriormente.
+Recogemos el texto introducido con $_GET o $_POST
+Si no existe la Cookie, la creamos con la tarea (texto enviado)
+Si ya existe, la recuperamos y añadimos nuestra tarea en ese “array” o “texto_muy_largo”.
+Mostramos un listado con las tareas pendientes
+
+Extra:
+Crear la opción de eliminar para cada elemento del listado
